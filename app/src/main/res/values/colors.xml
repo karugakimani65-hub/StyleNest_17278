@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold">#D4AF37</color>
+    <color name="gold_light">#F9F1D2</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_dark">#333333</color>
+
+    <!-- Brand colors from logo -->
+    <color name="brand_teal">#004242</color>
+    <color name="brand_gold">#C5A059</color>
+    <color name="logo_bg">#F9F9F9</color>
+</resources>
